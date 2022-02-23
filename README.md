@@ -1,6 +1,11 @@
 # GCP-Professional-Cloud-Network-Engineer
 Notes about the GCP Professional cloud network engineer exam
 
+## VPC
+
+<img width="905" alt="Screenshot 2022-02-23 at 14 23 29" src="https://user-images.githubusercontent.com/39993930/155327792-58fc8164-0e0e-44db-9cc4-7a1fcc9ec79a.png">
+
+
 ## Hybrid network
 
 #### VLAN attachment
